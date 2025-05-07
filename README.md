@@ -88,7 +88,7 @@ A full-stack application for content creators to manage their social media prese
 #### Clone the repository
 
 ```bash
-git clone 
+git clone https://github.com/Abhishek-Nag1029/vertxai-assignment.git
 cd creator-dashboard
 ```
 
